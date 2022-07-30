@@ -1,9 +1,9 @@
-/* @fileName prettier-config */
+/* @fileName eslint-config */
 
 'use strict';
 
 module.exports = {
   extends: [
-    require.resolve('base.prettierrc.js'),
+    require.resolve('base.eslintrc.js'),
   ],
 };
